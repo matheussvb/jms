@@ -1,5 +1,5 @@
 Abra um navegador e acesse: http://localhost:8161/admin
-
+https://s3.amazonaws.com/caelum-online-public/jms/apache-activemq-5.12.0-bin.zip
 
 activemq start
 
